@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/hong-lai/package-test/issues"
   },
-  "homepage": "https://github.com/hong-lai/package-test#readme"
+  "homepage": "https://github.com/hong-lai/package-test#readme",
+  "publishConfig": {"@hong-lai:registry": "https://npm.pkg.github.com"}
 }
